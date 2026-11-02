@@ -1,0 +1,21 @@
+# =================================================================
+# EWB Phishing URL Awareness Checker - Dependencies
+# =================================================================
+#
+# This project is built entirely using Python's standard library.
+# No external third-party packages (via pip) are required.
+#
+# Standard Library Modules Utilized:
+# -----------------------------------
+# - re            : Regular expressions for pattern validation (IPv4, schemes).
+#                   Included with Python 3.10+.
+# - urllib.parse  : URL component parsing (scheme, netloc, hostname, path).
+#                   Included with Python 3.10+.
+# - unittest      : Automated test framework for test suite discovery.
+#                   Included with Python 3.10+.
+# - typing        : Type annotations for code readability and maintainability.
+#                   Included with Python 3.10+.
+#
+# Requirements:
+# Python 3.10 or later (Tested on Python 3.13.2, Windows 11)
+# =================================================================
